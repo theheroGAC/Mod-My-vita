@@ -21,4 +21,7 @@ REMEMBER :This app is in beta version.
 - Team Onelua
 - SKGleba 
 - devnoname
-- 
+- blastrock
+- mmozeiko
+- nowrep
+- frangarcj

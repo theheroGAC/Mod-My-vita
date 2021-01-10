@@ -19,7 +19,8 @@ REMEMBER :This app is in beta version.
 # Credits
 - Theflow,
 - Team Onelua
-- SKGleba 
+- SKGleba
+- Celesteblue
 - devnoname
 - blastrock
 - mmozeiko
